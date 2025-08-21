@@ -1,0 +1,6 @@
+# System Model 2 (DL baselines)
+numpy>=1.24,<2.0
+scipy>=1.9
+matplotlib>=3.5
+torch>=2.0
+pyldpc>=0.8.0

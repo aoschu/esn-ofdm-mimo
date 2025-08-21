@@ -1,0 +1,7 @@
+# System Model 1 (Sionna-based)
+numpy>=1.24,<2.0
+scipy>=1.9
+matplotlib>=3.5
+sionna==0.19.2
+tensorflow==2.11.0
+pyldpc>=0.8.0
