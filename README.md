@@ -24,7 +24,6 @@ conda activate esn_sm2
 pip install -r requirements-sm2.txt
 
 # Quick check:
-python -c "import torch; print('torch', torch.__version__)"
 
-# Example run:
-python system_model_2/Demo_MIMO_2x2_all_DL_model_comparion.py
+python -c "import numpy; print('numpy', numpy.__version__)"
+
